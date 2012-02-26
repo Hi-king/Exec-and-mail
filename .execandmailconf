@@ -1,0 +1,15 @@
+# --- fromaddr settings --- #
+FROMADDR=hoge@gmail.com
+PORT=587
+SERVER=imaps.gmail.com
+USERNAME=hoge
+PASSWORD=hugahuga
+
+# --- message settings --- #
+DEFAULTSUBJECT=from myPC
+DEFAULTMESSAGE=no message
+
+# --- default toaddr --- #
+DEFAULTTOADDR=me@gmail.com
+
+# --- end -- #
